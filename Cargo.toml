@@ -1,0 +1,10 @@
+[package]
+name = "diesel-composite-tuple-ext"
+version = "0.1.0"
+edition = "2024"
+description = "Extension traits for diesel-rs to make working with tuples more ergonomic, such as when working with composite primary keys."
+repository = "https://github.com/dljsjr/diesel-composite-tuple-ext"
+license = "MIT"
+
+[dependencies]
+diesel = "^2.2"
